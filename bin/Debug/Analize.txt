@@ -1,0 +1,17 @@
+| Line number | Repeated characters in words | Shortest word with his separators |
+|---------------------------------------------------------------------------|
+|            1|u                             |x,,                                     |
+|            1|b                             |x,,                                     |
+|            1|g                             |x,,                                     |
+|            2|#                             |## ^%%$$$ ^&&                           |
+|            3|NO CHARACTERS                 |NO SHORTEST WORD                        |
+|            4|a                             |ala,,                                   |
+|            5|NO CHARACTERS                 |NO SHORTEST WORD                        |
+|            6|NO CHARACTERS                 |NO SHORTEST WORD                        |
+|            7|NO CHARACTERS                 |NO SHORTEST WORD                        |
+|            8|NO CHARACTERS                 |NO SHORTEST WORD                        |
+|            9|NO CHARACTERS                 |NO SHORTEST WORD                        |
+|           10|Y                             |Y*&^                                    |
+|           11|y                             |tt ;;                                   |
+|           11|t                             |tt ;;                                   |
+|---------------------------------------------------------------------------|

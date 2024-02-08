@@ -1,0 +1,8 @@
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\Pirmas kursas\Pirmas semestras\OPP 1\Laboratoriniai\U5-13-tekstas\bin\Debug\U5-13-tekstas.exe.config
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\Pirmas kursas\Pirmas semestras\OPP 1\Laboratoriniai\U5-13-tekstas\bin\Debug\U5-13-tekstas.exe
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\Pirmas kursas\Pirmas semestras\OPP 1\Laboratoriniai\U5-13-tekstas\bin\Debug\U5-13-tekstas.pdb
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\Pirmas kursas\Pirmas semestras\OPP 1\Laboratoriniai\U5-13-tekstas\obj\Debug\U5-13-tekstas.csproj.AssemblyReference.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\Pirmas kursas\Pirmas semestras\OPP 1\Laboratoriniai\U5-13-tekstas\obj\Debug\U5-13-tekstas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\Pirmas kursas\Pirmas semestras\OPP 1\Laboratoriniai\U5-13-tekstas\obj\Debug\U5-13-tekstas.csproj.CoreCompileInputs.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\Pirmas kursas\Pirmas semestras\OPP 1\Laboratoriniai\U5-13-tekstas\obj\Debug\U5-13-tekstas.exe
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\Pirmas kursas\Pirmas semestras\OPP 1\Laboratoriniai\U5-13-tekstas\obj\Debug\U5-13-tekstas.pdb
